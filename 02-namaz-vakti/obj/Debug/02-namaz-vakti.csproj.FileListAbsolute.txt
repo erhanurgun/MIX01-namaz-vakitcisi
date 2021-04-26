@@ -1,0 +1,18 @@
+D:\PROJECTS\VisualStudio\03-calismalarim\SLN\02-namaz-vakti\02-namaz-vakti\bin\Debug\BT Vakitçi.exe.config
+D:\PROJECTS\VisualStudio\03-calismalarim\SLN\02-namaz-vakti\02-namaz-vakti\bin\Debug\BT Vakitçi.exe.manifest
+D:\PROJECTS\VisualStudio\03-calismalarim\SLN\02-namaz-vakti\02-namaz-vakti\bin\Debug\BT Vakitçi.application
+D:\PROJECTS\VisualStudio\03-calismalarim\SLN\02-namaz-vakti\02-namaz-vakti\bin\Debug\BT Vakitçi.exe
+D:\PROJECTS\VisualStudio\03-calismalarim\SLN\02-namaz-vakti\02-namaz-vakti\bin\Debug\BT Vakitçi.pdb
+D:\PROJECTS\VisualStudio\03-calismalarim\SLN\02-namaz-vakti\02-namaz-vakti\bin\Debug\HtmlAgilityPack.dll
+D:\PROJECTS\VisualStudio\03-calismalarim\SLN\02-namaz-vakti\02-namaz-vakti\bin\Debug\HtmlAgilityPack.pdb
+D:\PROJECTS\VisualStudio\03-calismalarim\SLN\02-namaz-vakti\02-namaz-vakti\bin\Debug\HtmlAgilityPack.xml
+D:\PROJECTS\VisualStudio\03-calismalarim\SLN\02-namaz-vakti\02-namaz-vakti\obj\Debug\_02_namaz_vakti.formVakitci.resources
+D:\PROJECTS\VisualStudio\03-calismalarim\SLN\02-namaz-vakti\02-namaz-vakti\obj\Debug\_02_namaz_vakti.Properties.Resources.resources
+D:\PROJECTS\VisualStudio\03-calismalarim\SLN\02-namaz-vakti\02-namaz-vakti\obj\Debug\02-namaz-vakti.csproj.GenerateResource.cache
+D:\PROJECTS\VisualStudio\03-calismalarim\SLN\02-namaz-vakti\02-namaz-vakti\obj\Debug\02-namaz-vakti.csproj.CoreCompileInputs.cache
+D:\PROJECTS\VisualStudio\03-calismalarim\SLN\02-namaz-vakti\02-namaz-vakti\obj\Debug\BT Vakitçi.exe.manifest
+D:\PROJECTS\VisualStudio\03-calismalarim\SLN\02-namaz-vakti\02-namaz-vakti\obj\Debug\BT Vakitçi.application
+D:\PROJECTS\VisualStudio\03-calismalarim\SLN\02-namaz-vakti\02-namaz-vakti\obj\Debug\02-namaz-vakti.csproj.CopyComplete
+D:\PROJECTS\VisualStudio\03-calismalarim\SLN\02-namaz-vakti\02-namaz-vakti\obj\Debug\BT Vakitçi.exe
+D:\PROJECTS\VisualStudio\03-calismalarim\SLN\02-namaz-vakti\02-namaz-vakti\obj\Debug\BT Vakitçi.pdb
+D:\PROJECTS\VisualStudio\03-calismalarim\SLN\02-namaz-vakti\02-namaz-vakti\obj\Debug\02-namaz-vakti.csprojAssemblyReference.cache
